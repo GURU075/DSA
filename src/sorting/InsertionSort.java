@@ -1,5 +1,8 @@
 package sorting;
 
+//Insertion Sort:
+//Insert current element into sorted left portion.
+//        Best O(n), Worst O(n²).
 
 public class InsertionSort {
     public static void main(String[] args) {

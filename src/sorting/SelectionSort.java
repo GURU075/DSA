@@ -1,5 +1,10 @@
 package sorting;
 
+//
+//Selection Sort:
+//Find minimum.
+//One swap per pass.
+//Always O(n²).
 public class SelectionSort {
     public static void main(String[] args) {
         int[] arr = {5,62,3,556,2,3,6};

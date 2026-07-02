@@ -6,6 +6,11 @@ import java.util.logging.Logger;
 /*Best Case  : O(n²)
 Average    : O(n²)
 Worst Case : O(n²)*/
+
+
+//Bubble Sort:
+//Adjacent swap.
+//Largest goes to end.
 public class BubbleSortBrut {
 
    static Logger logger = Logger.getLogger(BubbleSortBrut.class.getName());
